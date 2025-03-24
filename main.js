@@ -34,5 +34,5 @@ btnNo.addEventListener("mouseover", (event) => {
 });
 
 btnYes.addEventListener("click", (e) => {
-  window.location.href = "https://drive.google.com/uc?export=download&id=1PDt6C8xDJWWny0t1ZmY0CbFybToiNWh-";
+  window.location.href = "https://drive.google.com/uc?export=download&id=18fz-jxv-FiRnMYG-FBDvA83lM0GfONFb";
 });
