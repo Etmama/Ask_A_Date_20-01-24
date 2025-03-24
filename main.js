@@ -34,5 +34,5 @@ btnNo.addEventListener("mouseover", (event) => {
 });
 
 btnYes.addEventListener("click", (e) => {
-  window.location.href = "https://www.canva.com/design/DAGT07kipqI/iO-CN6fY-U03nwa_Pao8EA/edit";
+  window.location.href = "https://drive.google.com/uc?export=download&id=1PDt6C8xDJWWny0t1ZmY0CbFybToiNWh-";
 });
